@@ -10,5 +10,9 @@
 	<p>
 		Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex omnis a similique earum voluptates ipsam, aliquam nam numquam id sequi ipsa necessitatibus, minus accusantium in. Optio error fugiat accusamus, laudantium.
 	</p>
+	<ul>
+		<li>satu</li>
+		<li>dua</li>
+	</ul>
 </body>
 </html>
